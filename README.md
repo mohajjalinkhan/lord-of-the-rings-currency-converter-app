@@ -1,4 +1,4 @@
-## lord-of-the-rings-currency-converter-app
+## Lord-Of-The-Rings-Currency-Converter-App
 
 ### This is a basic currency converter iOS application that allows users to convert between different currencies used in Lord of the Rings. Whether you're dealing with copper pennies, silver pennies, silver pieces, gold pennies, or gold pieces, this app will help you keep track of converted currency.
 ## Tech Stack
